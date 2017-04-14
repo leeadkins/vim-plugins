@@ -1,0 +1,18 @@
+[submodule "goyo"]
+	path = goyo
+	url = https://github.com/junegunn/goyo.vim
+[submodule "promptline"]
+	path = promptline
+	url = https://github.com/edkolev/promptline.vim
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "vim-jsx"]
+	path = vim-jsx
+	url = https://github.com/mxw/vim-jsx
+[submodule "auto-pairs"]
+	path = auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
