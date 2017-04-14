@@ -16,3 +16,6 @@
 [submodule "auto-pairs"]
 	path = auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs
+[submodule "gruvbox"]
+	path = gruvbox
+	url = https://github.com/morhetz/gruvbox
